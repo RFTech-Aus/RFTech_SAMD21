@@ -15,7 +15,7 @@
           "url": "https://github.com/RFTech-Aus/RFTech_SAMD21/blob/main/RFTech_SAMD21_1.0.0.zip?raw=true",
           "archiveFileName": "RFTech_SAMD21_1.0.0.zip",
           "checksum": "SHA-256:B59EB40CDFB11E463EFB698907966EB832100035717E21C05D755E6CFF844B50",
-          "size": "773583",
+          "size": "755583",
           "boards": [
             { "name": "LPDMAX_RAM" }
           ],
